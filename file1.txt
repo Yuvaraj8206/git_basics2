@@ -1,3 +1,5 @@
 This is a file1
 
 Applying changes to file 1. Demon plot
+
+Applying bugfix in file1.
